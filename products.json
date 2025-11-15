@@ -1,0 +1,44 @@
+[
+  {
+    "product_id": "P01",
+    "name": "Latte",
+    "category": "Coffee",
+    "price": 150
+  },
+  {
+    "product_id": "P02",
+    "name": "Espresso",
+    "category": "Coffee",
+    "price": 200
+  },
+  {
+    "product_id": "P03",
+    "name": "Americano",
+    "category": "Coffee",
+    "price": 120
+  },
+  {
+    "product_id": "P04",
+    "name": "Green Tea",
+    "category": "Tea",
+    "price": 90
+  },
+  {
+    "product_id": "P05",
+    "name": "Black Tea",
+    "category": "Tea",
+    "price": 85
+  },
+  {
+    "product_id": "P06",
+    "name": "Croissant",
+    "category": "Bakery",
+    "price": 75
+  },
+  {
+    "product_id": "P07",
+    "name": "Brownie",
+    "category": "Bakery",
+    "price": 95
+  }
+]
